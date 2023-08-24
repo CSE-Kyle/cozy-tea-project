@@ -1,0 +1,74 @@
+* {
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    color: seashell;
+}
+
+.upper-heading {
+    border-bottom: 1px solid seashell;
+}
+
+.link-heading {
+    display: flex;
+    justify-content: space-between;
+}
+
+.link-heading img {
+    height: 50px;
+    padding: 5px;
+}
+
+ul {
+    list-style-type: none;
+    font-size: 22px;
+    display: flex;
+    gap: 15px;
+}
+
+.mission-section img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75em;
+    height: 700px;
+}
+
+.mission-section > .description {
+    text-align: center;
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+    top: 37%;
+    z-index: 1;
+}
+
+.tea-section {
+    margin-top: 50px;
+}
+
+.tea-section > .description {
+    text-align: center;
+}
+
+.top-container {
+    display: flex;
+}
+
+.tea-image img {
+    height: 200px;
+    width: 300px;
+}
+
+.top-container {
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+}
+
+.bottom-container {
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+}
