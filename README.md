@@ -4,6 +4,7 @@ _Description:_
 
 a challenge project from codecademy.com where I build a fictional tea shop website with HTML and CSS.
 
+https://www.codecademy.com/projects/practice/tea-cozy
 
 ## _What I enjoyed throughout the project/What I've learned :_ 
 
